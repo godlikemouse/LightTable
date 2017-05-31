@@ -505,6 +505,7 @@ input {
 }
 #find-bar button {
   background: #3b3f41;
+  padding: 8px 10px;
 }
 #find-bar button:hover,
 #find-bar button:focus,
