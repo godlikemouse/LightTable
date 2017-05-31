@@ -9,11 +9,11 @@ html {
 }
 body {
   background: #33393B;
-  color: ;
+  color: #ccc;
 }
 a {
   text-decoration: none;
-  color: ;
+  color: #ccc;
 }
 .button,
 button {
@@ -100,7 +100,7 @@ input {
   color: #c7e6ff;
 }
 .inspector-object {
-  color: ;
+  color: #ccc;
 }
 .inline-result .inspector-object {
   color: #ccfcff;
@@ -137,7 +137,7 @@ input {
 }
 #multi .list .tab-close {
   background: rgba(125,125,125,0.7);
-  color: ;
+  color: #ccc;
 }
 #multi .tab-close:hover {
   background: #73404c;
@@ -199,7 +199,7 @@ input {
 }
 #instarepl .livetoggler.off:hover {
   color: #555;
-  background: ;
+  background: #ccc;
 }
 #instarepl .use-result {
   background: #3e6b6b;
@@ -267,7 +267,7 @@ input {
   color: #555;
 }
 .filter-list {
-  color: ;
+  color: #ccc;
 }
 .filter-list em {
   color: #c7e6ff;
@@ -275,7 +275,7 @@ input {
 .filter-list .selected,
 .filter-list li:hover {
   color: #f4f4f4;
-  background: ;
+  background: #ccc;
 }
 .filter-list .selected em,
 .filter-list li:hover em {
@@ -308,7 +308,7 @@ input {
 }
 #side .workspace .recent > div > ul > li:hover {
   border-color: #888;
-  background: ;
+  background: #ccc;
   color: #f4f4f4;
 }
 #side .workspace .recent > div > ul > li:hover + li {
@@ -343,10 +343,10 @@ input {
   color: #f4f4f4;
 }
 #right-bar .command .filter-list p.binding {
-  color: ;
+  color: #ccc;
 }
 #right-bar .command .filter-list .selected p.binding {
-  color: ;
+  color: #ccc;
 }
 #right-bar .filter-list h2 {
   color: #aaa;
@@ -359,12 +359,12 @@ input {
   border-radius: 0;
 }
 #right-bar .filter-list input {
-  border: 0px solid #888;
-  background: #181818;
+  border: 0px;
+  background: #202020;
   font-family: Verdana, 'Courier New', Inconsolata, monospace;
 }
 #right-bar .navigate .filter-list .selected p {
-  color: ;
+  color: #ccc;
 }
 #right-bar .filter-list li + li {
   border-top: 0px solid #606060;
@@ -455,7 +455,7 @@ input {
 }
 #right-bar .clients .connector li:hover {
   background: #616161;
-  color: ;
+  color: #ccc;
   border-color: #888;
 }
 #statusbar {
@@ -538,7 +538,7 @@ input {
   color: #bbb;
 }
 .search-results .line {
-  color: ;
+  color: #ccc;
 }
 .search-results .entry {
   color: #aaa;
